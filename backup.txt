@@ -1,0 +1,20 @@
+<html>
+<head>
+	<title> tesina </title>
+	<link href="stili.css" rel="stylesheet">
+	<link href="sottotitoli.css" rel="stylesheet">
+  <link href="font.css" rel="stylesheet">
+</head>
+	<body>
+	<h1 class="titolo"> TESINA </h1>
+	<center>
+<img src="./foto/fotohome.jpg" width="580" height="360" align="middle" />
+	<center/>
+<hr/>
+<h1 class="font">Oggi parlerò di come io ho sviluppato questo sito web e se è semplice farlo</h1>
+<hr/>
+<h1 class="sottotitoli"> LA BASE </h1>
+<h1 class="font">innanzi tutto come prima cosa ho imparato il linguaggio (html), come seconda cosa invece mi sono messo a programmare in questo linguaggio.</h1>
+<hr/>
+<h1 class="sottotitoli">IN QUANTO TEMPO L'HO IMPARATO E COME HO FATTO</h1>
+<h1 class="font">html l'ho imparato in 3/4 giorni circa (tengo a precisare che ho imparato LE BASI in 3/4 giorni)
